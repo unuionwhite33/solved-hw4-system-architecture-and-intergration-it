@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-hw4-system-architecture-and-intergration-it
+<br>
+You are now ready to start representing your system integration project by utilizing a system integration framework, which you researched as part of your Discussion Board assignment. You will also decide which components you might want to acquire and which components you want develop internally.
+
+Proposed System Integration Components ArchitectureThoroughly describe the architecture of the proposed integrated system, including all interfaces and components for the system integration and deployment.Represent this architecture diagrammatically.Discuss which components and interfaces could be acquired and those that need to be developed from scratch.Implementation FrameworkSelect and describe in detail the framework that you used to define and implement the system integration project.Define the project in terms of the selected framework.Discuss advantages for using the selected framework.Discuss integration challenges that were highlighted by defining the framework.Make sure that the document is in APA format. 1,000-1,250 words
